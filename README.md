@@ -16,3 +16,5 @@ Password:ilovechicken93@
 Port:21
 ```
 You can modify these configurations through the Shortcuts app.
+*****
+![IMG_0992.PNG](IMG_0992.PNG)
