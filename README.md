@@ -16,6 +16,7 @@ Username:ilovechicken93
 Password:ilovechicken93@
 Port:21
 ```
-You can modify these configurations through the Shortcuts app.
+You can modify these configurations through the Shortcuts app.  
+After a successful connection, **the root directory is the “a-Shell” folder** within the local files. Due to permission restrictions, it is not possible to modify or access higher-level directories.
 *****
 ![IMG_0992.PNG](IMG_0992.PNG)
