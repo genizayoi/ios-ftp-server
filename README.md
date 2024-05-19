@@ -1,5 +1,5 @@
 # ios-ftp-server
-`ios-ftp-server` is an FTP server utilizing the "Shortcuts" App and the "a-Shell" App, allowing you to access and upload files on your iPhone from anywhere. Simple, efficient, and easy to use. No additional software to install and no fees to pay.
+`ios-ftp-server` is an FTP server utilizing the "Shortcuts" App and the "a-Shell" App, allowing you to access and upload files on your iPhone from anywhere. Simple, efficient, and no additional software or fees required.
 ## Usage
 ### 1. Install the "a-Shell" App
 Search for "a-Shell" in the iPhone App Store or download it via this link:
