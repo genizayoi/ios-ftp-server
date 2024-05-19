@@ -1,15 +1,16 @@
 # ios-ftp-server
-ios-ftp-server is an FTP server utilizing the "Shortcuts" App and the "a-Shell" App, allowing you to access files on your iPhone from anywhere.
+`ios-ftp-server` is an FTP server utilizing the "Shortcuts" App and the "a-Shell" App, allowing you to access and upload files on your iPhone from anywhere. Simple, efficient, and easy to use. No additional software to install and no fees to pay.
 ## Usage
-### 1.Install the "a-Shell" APP in the iPhone APP Store
-Search for "a-shell" in the app store or download it via this link :<br>
-https://holzschu.github.io/a-Shell_iOS/
-### 2.Install the "Shortcuts" App in the iPhone App Store
-Search for "shortcuts" in the app store.
-### 3.Import the "ios-ftp-server" shortcut
-https://www.icloud.com/shortcuts/d81c30ed80fe4fc2a0c180074da7966a
-### 4.Run the "ios-ftp-server" shortcut
-The default username, password and port are as follows:
+### 1. Install the "a-Shell" App
+Search for "a-Shell" in the iPhone App Store or download it via this link:
+[Download Link](https://holzschu.github.io/a-Shell_iOS/)
+### 2. Install the "Shortcuts" App
+Search for "Shortcuts" in the iPhone App Store.
+### 3. Import the "ios-ftp-server" Shortcut
+Click the link below to import the shortcut:
+[Import Link](https://www.icloud.com/shortcuts/d81c30ed80fe4fc2a0c180074da7966a)
+### 4. Run the "ios-ftp-server" Shortcut
+The default username, password, and port are as follows:
 ```
 Username:ilovechicken93
 Password:ilovechicken93@
